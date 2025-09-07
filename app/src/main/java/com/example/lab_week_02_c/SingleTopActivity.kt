@@ -23,7 +23,7 @@ class SingleTopActivity : AppCompatActivity() {
             )
         }
     }
-
+    //zena
     override fun onNewIntent(intent: Intent) {
         super.onNewIntent(intent)
         Log.d(DEBUG, "onNewIntent")
